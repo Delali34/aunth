@@ -6,17 +6,17 @@ body {
 
 #main {
   display: block;
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
   margin-top: 200px;
 }
 
 #fields {
-  margin: 20px 0px;
+  margin: 20px 5px;
 }
 
 input {
-  font-size: 30px;
+  font-size: 20px;
 }
 
 button {
